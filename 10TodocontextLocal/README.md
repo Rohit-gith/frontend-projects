@@ -150,8 +150,8 @@ Open **[http://localhost:5173](http://localhost:5173)** in your browser 🚀
 | Platform | Link |
 |----------|------|
 | 🐙 GitHub | [@Rohit-gith](https://github.com/Rohit-gith) |
-| 💼 LinkedIn | *[Add your LinkedIn URL here]* |
-| 📧 Email | *[Add your email here]* |
+| 💼 LinkedIn | www.linkedin.com/in/rohit-prasad-sahoo-9ba22a237 |
+| 📧 Email | rohitprasadsahoo@gmail.com |
 
 </div>
 
